@@ -26,5 +26,9 @@
     "LICENSE.txt",
     "README.md",
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "@oglify/core": "file:../oglify-core",
+    "args": "^5.0.1"
+  }
 }
